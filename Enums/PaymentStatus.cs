@@ -8,7 +8,7 @@ namespace api.Enums
     public enum PaymentEnum
     {
         PENDING = 0,
-        SUCCEDED = 1,
+        SUCCEEDED = 1,
         FAILED = 2
 
     }
